@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BE_Aula3.iml" filepath="$PROJECT_DIR$/.idea/BE_Aula3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy pattern/Proxypattern/Proxypattern.iml" filepath="$PROJECT_DIR$/Proxy pattern/Proxypattern/Proxypattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy pattern/vacinacaoProxy/vacinacaoProxy.iml" filepath="$PROJECT_DIR$/Proxy pattern/vacinacaoProxy/vacinacaoProxy.iml" />
+    </modules>
+  </component>
+</project>
